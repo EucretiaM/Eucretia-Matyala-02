@@ -1,4 +1,4 @@
-Project README
+
 Project Name: Create a Simple AI Model for Linear Regression Using Rust Burn Library VERSION 0.16
 This README file provides a detailed explanation of how to set up the project, how the problem was approached, challenges faced during development, and the resources used to complete the project.
 Table of Contents
